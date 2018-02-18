@@ -1,0 +1,5 @@
+*.pyc
+/.idea
+/.ipynb_checkpoints
+/test_images
+/test_videos_output
